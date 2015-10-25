@@ -8,3 +8,4 @@ sdf
 Git:10-23
 Git:10-24 fix again again!
 Creating a new branch is quick,10-25.
+Creating a new branch is quick & simple.
